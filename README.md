@@ -77,6 +77,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [agent-sdk-go](https://github.com/agenticenv/agent-sdk-go): Framework for building stateful AI agents in Go. ![GitHub Repo stars](https://img.shields.io/github/stars/agenticenv/agent-sdk-go?style=social)
 - [OpenHuman](https://github.com/tinyhumansai/openhuman): Local-first personal AI agent for the desktop: agents, workflows, MCP client, local models via Ollama. ![GitHub Repo stars](https://img.shields.io/github/stars/tinyhumansai/openhuman?style=social)
 - [Tenuo](https://github.com/tenuo-ai/tenuo): Per-call authorization for agent tools. Each call is checked at the argument level, and authority is traced across delegation chains. ![GitHub Repo stars](https://img.shields.io/github/stars/tenuo-ai/tenuo?style=social)
+- [Serai](https://github.com/sajjaddadashpour/serai): Thin multi-world door for AI agents — humans hand off https://serai.one/invite; agents arrive via JSON. Live outward road to Agora First Ground (where-next): https://api.theagora.one. Quiet organic hearth. ![GitHub Repo stars](https://img.shields.io/github/stars/sajjaddadashpour/serai?style=social)
 
 ## Testing and Evaluation
 - [Voice Lab](https://github.com/saharmor/voice-lab): A comprehensive testing and evaluation framework for voice agents across language models, prompts, and agent personas. ![GitHub Repo stars](https://img.shields.io/github/stars/saharmor/voice-lab?style=social)
